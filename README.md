@@ -1,4 +1,4 @@
-# Registraion Form
+# Registration Form
 
 ## ⭐ Introduction
 
