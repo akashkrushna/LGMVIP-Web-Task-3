@@ -15,6 +15,6 @@ The provided profile image link is dynamically showcased in the student details 
 <br/>
 
 ## 🔗 Links
-> ## CheckOut the website link [https://lgmvip-web-task-2.netlify.app](https://lgmvip-web-task-3.netlify.app)
+> ## CheckOut the website link (https://lgmvip-web-task-3.netlify.app)
 <br/>
 <br/>
